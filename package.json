@@ -1,0 +1,29 @@
+{
+  "name": "ecs_bankchallenge",
+  "version": "1.0.0",
+  "description": "This challenge helps you practice your OO design skills.",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digital-futures-academy/ECS_bankChallenge.git"
+  },
+  "author": "@eCorina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digital-futures-academy/ECS_bankChallenge/issues"
+  },
+  "homepage": "https://github.com/digital-futures-academy/ECS_bankChallenge#readme",
+  "devDependencies": {
+    "jasmine": "^4.5.0"
+  },
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
